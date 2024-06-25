@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 🔬About me:
+
+🏢Working as OSS Engineer at @siemens
 
 🌱 I’m currently learning: DevOps
 
