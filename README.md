@@ -5,5 +5,5 @@
 🌱 I’m currently learning: DevOps
 
 ## Skills
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,py,docker,kubernetes,jenkin)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,py,docker,kubernetes,jenkins)](https://skillicons.dev)<br/>
 
