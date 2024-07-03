@@ -4,12 +4,24 @@
 
 🌱 I’m currently learning: DevOps
 
-## Skills
+👯 I’m looking to collaborate on : AWS projects
+
+<div align='center'>
+
+## Skills⚡
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,linux,py,aws,docker,kubernetes,jenkins)](https://skillicons.dev)<br/>
 
-<details>
-  <summary>Github Stats ⚡</summary>
+</div>
+
+<div align='center'>
+
+### Github Stats🔖
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=anujkumar1793&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkumar1793&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+[![](https://komarev.com/ghpvc/?username=anujkumar1793&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anujkumar1793&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujkumar1793&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=anujkumar1793&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
