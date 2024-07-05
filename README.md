@@ -2,11 +2,14 @@
 
 🏢Working as OSS Engineer at @siemens
 
-🌱 I’m currently learning: DevOps
+🌱 I’m currently learning: 
+DevOps
 
-👯 I’m looking to collaborate on : AWS projects
+👯 I’m looking to collaborate on : 
+AWS projects
 
-💬 Ask me about: Python, JavaScript, Linux
+💬 Ask me about: 
+Python, JavaScript, Linux
 
 <div align='center'>
 
