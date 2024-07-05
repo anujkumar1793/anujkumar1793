@@ -6,6 +6,8 @@
 
 👯 I’m looking to collaborate on : AWS projects
 
+💬 Ask me about: Python, JavaScript, Linux
+
 <div align='center'>
 
 ## Skills⚡
