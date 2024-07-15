@@ -14,7 +14,7 @@ Python, JavaScript, Linux
 <div align='center'>
 
 ## Skills⚡
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,linux,py,aws,docker,kubernetes,jenkins,azure)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,linux,py,go,aws,docker,kubernetes,jenkins,azure)](https://skillicons.dev)<br/>
 
 </div>
 
