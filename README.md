@@ -9,7 +9,7 @@ DevOps
 AWS projects
 
 💬 Ask me about: 
-Python, JavaScript, Linux
+Python, JavaScript, Linux , GO
 
 <div align='center'>
 
