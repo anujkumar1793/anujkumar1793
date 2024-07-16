@@ -16,8 +16,6 @@ Python, JavaScript, Linux , GO
 ## Skills⚡
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,linux,py,go,aws,docker,kubernetes,jenkins,azure)](https://skillicons.dev)<br/>
 
-</div>
-
 <div align='center'>
 
 ### Github Stats🔖
