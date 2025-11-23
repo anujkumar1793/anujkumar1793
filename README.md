@@ -9,12 +9,12 @@ DevOps
 AWS projects
 
 💬 Ask me about: 
-Python, JavaScript, Linux , GO
+Python , Linux , GO
 
 <div align='center'>
 
 ## Skills⚡
-[![SkillIcons](https://skillicons.dev/icons?i=linux,py,aws,azure,docker,kubernetes,jenkins,terraform,)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=linux,py,aws,azure,docker,kubernetes,jenkins,terraform,powershell,golang)](https://skillicons.dev)<br/>
 
 <div align='center'>
 
